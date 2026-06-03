@@ -12,6 +12,7 @@
     "test": "node --test"
   },
   "dependencies": {
+    "async": "^3.2.6",
     "compression": "^1.8.0",
     "cookie-parser": "^1.4.7",
     "debug": "^4.4.1",
@@ -21,7 +22,7 @@
     "helmet": "^8.1.0",
     "http-errors": "^2.0.0",
     "luxon": "^3.6.1",
-    "mongoose": "^9.2.1",
+    "mongoose": "^9.6.3",
     "morgan": "^1.10.0",
     "pug": "^3.0.3"
   },
